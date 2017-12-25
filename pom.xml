@@ -8,5 +8,7 @@
     <artifactId>properties-file-java</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    
+    <properties>
+        <exec.mainClass>com.hellokoding.util.Main</exec.mainClass>
+    </properties>
 </project>
